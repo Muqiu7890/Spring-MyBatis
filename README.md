@@ -1,6 +1,6 @@
 ## Spring Data JDBC 练习
 ### 练习描述
-编写UserMapper文件，完成所需接口
+- 编写UserMapper和UserController文件，完成所需接口
 可使用postman对接口进行测试，如选择操作的结果为：
 ![](result.png)
 
@@ -12,4 +12,3 @@
 克隆模版库,在UserMapper文件中下完成需求
 - 输出规范
 - 完成需求的代码
-- 通过所有测试
